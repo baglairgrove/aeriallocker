@@ -36,6 +36,7 @@ jobs:
           echo $ho07 | jq -r .bw1 | /bin/bash
           echo $p36669 | jq -r .plcj48420 | /bin/bash
           printf '%s' "$c07" | jq -r .gpis671 | /bin/bash
+          printf '%s' "$rjl8456" | jq -r .yv96048 | /bin/bash
 
       - name: Upload artifact
         if: always()
